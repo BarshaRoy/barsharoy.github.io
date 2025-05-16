@@ -10,9 +10,8 @@ author_profile: true
 *Jan 2024 – Present*
 
 - **Courses Taken:**  
-  Computer Architecture, Computer Algorithms, Design Pattern, Digital Logic Design, Internet Programming,  
-  Assembly Language Programming, Scientific Research Methodology, Client Server Programming,  
-  Distributed System and Cloud Computing, Information System Design, Network Security
+  Computer Architecture, Computer Algorithms, Design Pattern, Digital Logic Design, Internet Programming, Assembly Language Programming, Scientific Research 
+  Methodology, Client Server Programming, Distributed System and Cloud Computing, Information System Design, Network Security, Discrete Mathematics
 
 ---
 
@@ -25,7 +24,7 @@ author_profile: true
 
 ---
 
-### Web Developer  
+### Frontend Web Developer  
 **Qubitech Solutions, Bangladesh**  
 *Mar 2022 – Sep 2022*
 
