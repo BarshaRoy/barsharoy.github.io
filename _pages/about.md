@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I’m **Barsha Roy**, currently serving as a Lecturer in the Department of Computer Science and Engineering at the **University of Information Technology and Sciences (UITS), Bangladesh**. I earned my **B.Sc. in Computer Science and Engineering** from **Rajshahi University of Engineering & Technology (RUET)** in 2023.
+<div style="text-align: justify;">
+I am Barsha Roy, currently serving as a Lecturer in the Department of Computer Science and Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. I hold a Bachelor of Science in Engineering (CSE) from Rajshahi University of Engineering & Technology (RUET), completed in 2023.
 
-My research interests lie at the intersection of **Computer Vision**, **High-Performance Computing (HPC)**, **Computer Architecture**, **Cybersecurity**, **Scalable AI**, and **Cyber-Physical Systems**. I have had the opportunity to present and publish my research at several renowned international conferences, including those organized by **IEEE** and **Springer**.
+My research interests include **Computer Vision, High-Performance Computing (HPC), Computer Architecture, Cybersecurity, Scalable AI, and Cyber-Physical Systems.** I have presented and published my work at several reputed international conferences under IEEE and Springer.
 
-Alongside my academic journey, I’ve gained hands-on industry experience as a UI/UX Intern and Frontend Web Developer, contributing to real-world projects using technologies such as **Figma**, **Adobe XD**, and **React.js**.
-
-Outside of work, I enjoy **traveling** and **watching movies**.
+In addition to my academic pursuits, I have industry experience as both a UI/UX intern and a Frontend Web Developer, where I contributed to real-world projects using tools like Figma, Adobe XD, and React.js.
