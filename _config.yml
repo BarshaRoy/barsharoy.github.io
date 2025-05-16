@@ -25,7 +25,7 @@ author:
   avatar           : "dp.png"
   name             : "Barsha Roy"
   pronouns         : # "she/her"  
-  bio              : "Computer Vision|ML|HPC"
+  bio              : "Lecturer, Dept. of CSE, UITS"
   location         : "Dhaka, Bangladesh"
   employer         : # example
   uri              : # URL
@@ -39,7 +39,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Barsha-Roy-Krishty?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
