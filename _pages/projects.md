@@ -51,7 +51,7 @@ Core highlights:
 
 ### Attention-based Leukemia Classifier  
 **Tech Stack:** Python, TensorFlow, Keras  
-Applied Convolutional Block Attention Module (CBAM) with various built-in and custom CNNs (DenseNet101, ResNet50, EfficientNetB6) to classify leukemia images from the [Kaggle dataset](https://www.kaggle.com/datasets/mehradaria/leukemia). Grad-CAM was used to visualize regions of interest in the feature maps.  
+Applied Convolutional Block Attention Module (CBAM) with various built-in and custom CNNs (DenseNet101, ResNet50, EfficientNetB6) to classify leukemia images. Grad-CAM was used to visualize regions of interest in the feature maps.  
 Published as: *"Attention Mechanism-enhanced Deep CNN Architecture for Precise Multi-Class Leukemia Classification"* (BIM 2023, Springer).  
 [🔗 View Code Repository](https://github.com/BarshaRoy/CBAM-attention)
 
@@ -59,7 +59,7 @@ Published as: *"Attention Mechanism-enhanced Deep CNN Architecture for Precise M
 
 ### Ensemble of ViT and CNN for Leukemia Classification  
 **Tech Stack:** Python, TensorFlow, Keras  
-Developed an ensemble model combining Vision Transformer (ViT) with ResNet101v2 and custom CNNs. Employed weighted ensemble techniques on the [same Kaggle dataset](https://www.kaggle.com/datasets/mehradaria/leukemia).  
+Developed an ensemble model combining Vision Transformer (ViT) with ResNet101v2 and custom CNN architectures, employing weighted ensembling techniques to enhance the model’s overall performance and robustness.
 Published as: *"A Cutting-Edge Ensemble of Vision Transformer and ResNet101v2 Based Transfer Learning for the Precise Classification of Leukemia Sub-types from Peripheral Blood Smear Images"* (ICEEICT 2024, IEEE).  
 [🔗 View Code Repository](https://github.com/BarshaRoy/Ensemble)
 
