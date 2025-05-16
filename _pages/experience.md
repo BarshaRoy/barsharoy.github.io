@@ -41,4 +41,4 @@ author_profile: true
 
 - Assisted in designing user interfaces using Figma and Adobe XD  
 - Worked with team members to align designs with project goals  
-- Helped create wireframes and prototypes for new features
+- Helped to create wireframes and prototypes for new features
