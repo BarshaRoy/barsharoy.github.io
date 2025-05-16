@@ -59,7 +59,7 @@ Published as: *"Attention Mechanism-enhanced Deep CNN Architecture for Precise M
 
 ### Ensemble of ViT and CNN for Leukemia Classification  
 **Tech Stack:** Python, TensorFlow, Keras  
-Developed an ensemble model combining Vision Transformer (ViT) with ResNet101v2 and custom CNN architectures, employing weighted ensembling techniques to enhance the model’s overall performance and robustness.
+Developed an ensemble model combining Vision Transformer (ViT) with ResNet101v2 and custom CNN architectures, employing weighted ensembling techniques to enhance the model’s overall performance and robustness.  
 Published as: *"A Cutting-Edge Ensemble of Vision Transformer and ResNet101v2 Based Transfer Learning for the Precise Classification of Leukemia Sub-types from Peripheral Blood Smear Images"* (ICEEICT 2024, IEEE).  
 [🔗 View Code Repository](https://github.com/BarshaRoy/Ensemble)
 
