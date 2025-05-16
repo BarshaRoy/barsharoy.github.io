@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Barsha's Homepage"
+title                    : # "Barsha's Homepage"
 title_separator          : "-"
 name                     : &name "Barsha Roy"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Barsha Roy"
-  pronouns         : "she/her"  
-  bio              : "Computer Vision||HPC||Computer Architecture"
+  pronouns         : # "she/her"  
+  bio              : "Computer Vision|ML|HPC"
   location         : "Dhaka, Bangladesh"
   employer         : # example
   uri              : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Barsha Roy Krishty"
+  linkedin         : "barsha-roy-krishty"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
