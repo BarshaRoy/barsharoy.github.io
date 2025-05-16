@@ -6,7 +6,7 @@ excerpt: "Publications"
 author_profile: true
 ---
 
-The full record of my publications is available from my [Google Scholar](https://scholar.google.com/citations?user=2R5Tox0AAAAJ&hl=en).
+The full record of my publications is available in my [Google Scholar](https://scholar.google.com/citations?user=2R5Tox0AAAAJ&hl=en).
 
 ### 2024
 
@@ -20,7 +20,7 @@ The full record of my publications is available from my [Google Scholar](https:/
 
 - Tahsen Islam Sajon, Barsha Roy, Md Farukuzzaman Faruk, Azmain Yakin Srizon, Shakil Mahmud Shuvo, Md Al Mamun, Abu Sayeed, SM Mahedy Hasan.  
   **Attention Mechanism-Enhanced Deep CNN Architecture for Precise Multi-Class Leukemia Classification.**  
-  2nd International Conference on Big Data, IoT and Machine Learning (BIM 2023), Lecture Notes in Networks and Systems, vol 867.  
+  2nd International Conference on Big Data, IoT and Machine Learning(BIM), Lecture Notes in Networks and Systems, vol 867. Springer, Singapore    
   [DOI: 10.1007/978-981-99-8937-9_24](https://doi.org/10.1007/978-981-99-8937-9_24)
 
 - Md Nazmul Islam, Md Al Mamun, Md Farukuzzaman Faruk, Azmain Yakin Srizon, SM Mahedy Hasan, Barsha Roy.  
