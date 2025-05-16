@@ -15,10 +15,10 @@ main:
     url: /publications/    
 
   - title: "Projects"
-    url: /portfolio/    
+    url: /projects/    
     
   - title: "Work Experience"
-    url: /teaching/
+    url: /experience/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
