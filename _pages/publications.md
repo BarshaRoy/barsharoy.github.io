@@ -7,6 +7,11 @@ author_profile: true
 ---
 
 The full record of my publications is available in my [Google Scholar](https://scholar.google.com/citations?user=2R5Tox0AAAAJ&hl=en).
+### 2025
+
+- Md. Sakib Bin Alam, Aiman Lameesa, **Barsha Roy**, et al.  
+  **A TinyML-optimized multi-dataset fusion framework for speech emotion recognition using hybrid neural networks.**  
+  *Under review*, IEEE Transactions on Computational Social Systems.
 
 ### 2024
 
