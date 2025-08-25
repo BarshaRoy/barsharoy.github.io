@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="text-align: justify;">
 
-I am Barsha Roy, currently serving as a Lecturer in the Department of Computer Science and Engineering at the University of Information Technology and Sciences (UITS), Bangladesh. I have completed my BSc. in Computer Science & Engineering from Rajshahi University of Engineering & Technology (RUET) in 2023. My research interests include <strong>Computer Vision, High-Performance Computing (HPC), Computer Architecture, Cybersecurity, Scalable AI, and Cyber-Physical Systems.</strong> I have presented and published my work at several reputed international conferences under IEEE and Springer.
+I am Barsha Roy, and I am currently a PhD candidate in the Computer Science Department at the University of Alabama in Huntsville. I have completed my BSc. in Computer Science & Engineering from Rajshahi University of Engineering & Technology (RUET) in 2023. My research interests include <strong>Computer Vision, Computer Architecture, Augmented Reality, Scalable AI, and Cyber-Physical Systems.</strong> I have presented and published my work at several reputed international conferences under IEEE and Springer.
 
 <br><br>
 
@@ -25,8 +25,8 @@ I’m always eager to learn new things and open to meaningful collaborations.
 
 ### Research Interests
 - Computer Vision  
-- High-Performance Computing (HPC)  
+- Health Informatics  
 - Computer Architecture  
-- Cybersecurity  
+- Augmented Reality 
 - Scalable AI  
 - Cyber-Physical Systems
