@@ -22,7 +22,7 @@ repository               : "BarshaRoy/barsharoy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "CV_P.jpg"
+  avatar           : "CV_P1.jpg"
   name             : "Barsha Roy"
   pronouns         : # "she/her"  
   bio              : "PhD Student @CS, UCF"
