@@ -6,8 +6,7 @@ excerpt: "Publications"
 author_profile: true
 ---
 
-The full record of my publications is available in my [Google Scholar](https://scholar.google.com/citations?user=2R5Tox0AAAAJ&hl=en).
-, IEEE Transactions on Computational Social Systems.
+The full record of my publications is available in my [Google Scholar](https://scholar.google.com/citations?user=2R5Tox0AAAAJ&hl=en)
 
 ### 2024
 
